@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/sarah/static/css/main.9d221ee0.css",
-    "main.js": "/sarah/static/js/main.81d89a75.js",
-    "static/media/pareja3.jpg": "/sarah/static/media/pareja3.2bea01afe9618e92f150.jpg",
-    "static/media/pareja.png": "/sarah/static/media/pareja.02835e8448b0543a7207.png",
-    "static/media/pareja2.png": "/sarah/static/media/pareja2.27d602b30cca05e0c9e5.png",
-    "static/media/ocho.jpg": "/sarah/static/media/ocho.1065a17d410807bb7e6f.jpg",
-    "static/media/cinco.jpg": "/sarah/static/media/cinco.557d1a791237a81d694b.jpg",
-    "static/media/tres.jpg": "/sarah/static/media/tres.5d26a07fa13975431bcd.jpg",
-    "static/media/uno.jpg": "/sarah/static/media/uno.54b0ebe96137b1788475.jpg",
-    "static/media/img2.jpg": "/sarah/static/media/img2.1d7a6f1c27fa30604a7a.jpg",
-    "static/media/cuatro.png": "/sarah/static/media/cuatro.8c9d01d432b87b9da141.png",
-    "static/media/seis.jpg": "/sarah/static/media/seis.1adc688808498f46e2e3.jpg",
-    "static/media/img3.jpg": "/sarah/static/media/img3.1e7669d924a33e2dbe6d.jpg",
-    "static/media/dos.jpg": "/sarah/static/media/dos.c6e03626cdbfc4511a61.jpg",
-    "static/media/img7.jpg": "/sarah/static/media/img7.1e0637313f6a1e9cff1d.jpg",
-    "static/media/COMERCIOS.svg": "/sarah/static/media/COMERCIOS.97c186b10e4db71de5729710b1d85d47.svg",
-    "index.html": "/sarah/index.html",
-    "main.9d221ee0.css.map": "/sarah/static/css/main.9d221ee0.css.map",
-    "main.81d89a75.js.map": "/sarah/static/js/main.81d89a75.js.map"
+    "main.css": "/regalo/static/css/main.9d221ee0.css",
+    "main.js": "/regalo/static/js/main.2f9e401f.js",
+    "static/media/pareja3.jpg": "/regalo/static/media/pareja3.2bea01afe9618e92f150.jpg",
+    "static/media/pareja.png": "/regalo/static/media/pareja.02835e8448b0543a7207.png",
+    "static/media/pareja2.png": "/regalo/static/media/pareja2.27d602b30cca05e0c9e5.png",
+    "static/media/ocho.jpg": "/regalo/static/media/ocho.1065a17d410807bb7e6f.jpg",
+    "static/media/cinco.jpg": "/regalo/static/media/cinco.557d1a791237a81d694b.jpg",
+    "static/media/tres.jpg": "/regalo/static/media/tres.5d26a07fa13975431bcd.jpg",
+    "static/media/uno.jpg": "/regalo/static/media/uno.54b0ebe96137b1788475.jpg",
+    "static/media/img2.jpg": "/regalo/static/media/img2.1d7a6f1c27fa30604a7a.jpg",
+    "static/media/cuatro.png": "/regalo/static/media/cuatro.8c9d01d432b87b9da141.png",
+    "static/media/seis.jpg": "/regalo/static/media/seis.1adc688808498f46e2e3.jpg",
+    "static/media/img3.jpg": "/regalo/static/media/img3.1e7669d924a33e2dbe6d.jpg",
+    "static/media/dos.jpg": "/regalo/static/media/dos.c6e03626cdbfc4511a61.jpg",
+    "static/media/img7.jpg": "/regalo/static/media/img7.1e0637313f6a1e9cff1d.jpg",
+    "static/media/COMERCIOS.svg": "/regalo/static/media/COMERCIOS.97c186b10e4db71de5729710b1d85d47.svg",
+    "index.html": "/regalo/index.html",
+    "main.9d221ee0.css.map": "/regalo/static/css/main.9d221ee0.css.map",
+    "main.2f9e401f.js.map": "/regalo/static/js/main.2f9e401f.js.map"
   },
   "entrypoints": [
     "static/css/main.9d221ee0.css",
-    "static/js/main.81d89a75.js"
+    "static/js/main.2f9e401f.js"
   ]
 }
